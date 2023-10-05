@@ -81,4 +81,4 @@ python eval.py --dataset=ped2 --trained_model=best_model_ped2 --show_curve=True
 
 | Frame Comparison (ped2-04)                                                                              |
 |----------------------------------------------------------------------------------------------------------------------|
-|![frame_compare](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/bf6b46ac-32d0-4ace-b35e-ab4506ff64e3) | 
+|![ffp_comparision](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/f0d034ae-b782-4d05-a894-38631cef3669) | 
