@@ -1,0 +1,24 @@
+[1 video] auc: 0.9824404761904761 auc
+
+[2 video] auc: 1.0 auc
+
+[3 video] auc: 0.994718309859155 auc
+
+[4 video] auc: 1.0 auc
+
+[5 video] auc: 0.998095238095238 auc
+
+[6 video] auc: 0.9290322580645162 auc
+
+[7 video] auc: 0.9965672990063233 auc
+
+[8 video] auc: nan auc
+
+[9 video] auc: nan auc
+
+[10 video] auc: nan auc
+
+[11 video] auc: nan auc
+
+[12 video] auc: 0.9290063479725352 auc
+
