@@ -6,7 +6,7 @@ from evaluation.test_eval import val_test_eval
 from config import update_config
 from model.generator import UNet 
 
-parser = argparse.ArgumentParser(description='Anomaly Prediction')
+parser = argparse.ArgumentParser(description='Future_Frame_Prediction')
 parser.add_argument('--dataset', default='avenue', type=str, help='The name of the dataset to evaluate.')
 parser.add_argument('--trained_model', default=None, type=str, help='The pre-trained model to evaluate.')
 parser.add_argument('--show_curve', default=True, type=bool, help='show curve')
