@@ -82,3 +82,6 @@ python eval.py --dataset=ped2 --trained_model=best_model_ped2 --show_curve=True
 | Frame Comparison (ped2-04)                                                                              |
 |----------------------------------------------------------------------------------------------------------------------|
 |![ffp_comparision](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/0c299ee4-7e40-495f-abf9-c7f7e11280cb) | 
+
+## 📖 Lecture Note
+* <strong>Frame-Prediction lecture note</strong>: [[Link](https://shacoding.com/2023/11/24/%ec%bd%94%eb%94%a9-%ec%8b%a4%ec%8a%b5-future-frame-prediction-for-anomaly-detection/)] (23.11.23)
