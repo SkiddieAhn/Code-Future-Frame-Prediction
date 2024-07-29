@@ -1,7 +1,6 @@
 # Future Frame Prediction 
 Pytorch implementation of video anomaly detection paper for CVPR 2018: [Future Frame Prediction for Anomaly Detection – A New Baseline](https://arxiv.org/pdf/1712.09867.pdf).  
-Most codes were obtained from the following GitHub page: [[Link]](https://github.com/feiyuhuahuo/Anomaly_Prediction)
-
+Most codes were obtained from the following GitHub page: [[Link]](https://github.com/feiyuhuahuo/Anomaly_Prediction)  
 To understand the code, please refer to the Google Colab page (Korean): [[Link]](https://colab.research.google.com/drive/1ckH-16QVRLmTjnocvmFTga5h0zSyT4_u?usp=sharing#scrollTo=sXh2ARwIaHbz)
 
 I only trained the ```ped2``` dataset, the result:  
