@@ -2,6 +2,8 @@
 Pytorch implementation of video anomaly detection paper for CVPR 2018: [Future Frame Prediction for Anomaly Detection – A New Baseline](https://arxiv.org/pdf/1712.09867.pdf).  
 Most codes were obtained from the following GitHub page: [[Link]](https://github.com/feiyuhuahuo/Anomaly_Prediction)
 
+To understand the code, please refer to the Google Colab page (Korean): [[Link]](https://colab.research.google.com/drive/1ckH-16QVRLmTjnocvmFTga5h0zSyT4_u?usp=sharing#scrollTo=sXh2ARwIaHbz)
+
 I only trained the ```ped2``` dataset, the result:  
 
 |     AUC                  |USCD Ped2    |
@@ -84,4 +86,4 @@ python eval.py --dataset=ped2 --trained_model=best_model_ped2 --show_curve=True
 |![ffp_comparision](https://github.com/SkiddieAhn/SkiddieAhn/assets/52392658/0c299ee4-7e40-495f-abf9-c7f7e11280cb) | 
 
 ## 📖 Lecture Note
-* <strong>Frame-Prediction lecture note</strong>: [[Link](https://shacoding.com/2023/11/24/%ec%bd%94%eb%94%a9-%ec%8b%a4%ec%8a%b5-future-frame-prediction-for-anomaly-detection/)] (23.11.23)
+* <strong>Frame-Prediction lecture note</strong>: [[Link](https://shacoding.com/wp-content/uploads/2024/04/VAD_%EC%8B%A4%EC%8A%B5.pdf)] (24.04.18)
