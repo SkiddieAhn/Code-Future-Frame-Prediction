@@ -25,19 +25,19 @@ Other common packages.
 
 |     USCD Ped2            |
 |:------------------------:|
-| [Google Drive](https://drive.google.com/file/d/1lDhPPONJfivF_CtxIA3gg74f7RhNII-h/view?usp=drive_link)   | 
+| [Google Drive](https://drive.google.com/file/d/1UZwAFTbFec7-tcNY0M4AIEix3vO86Eda/view?usp=sharing)   | 
 
 - Download the FlowNet2-SD weight and put it under the ```flownet/pretrained``` folder.
 
 |     FlowNet2-SD.pth            |
 |:------------------------:|
-| [Google Drive](https://drive.google.com/file/d/1G3p84hzYRTCboNnJTb3iLwIPiHeNg-D_/view?usp=drive_link)   | 
+| [Google Drive](https://drive.google.com/file/d/1QYlo-ebSQ58KmVFhJIkXDNILCNF7Gd6B/view?usp=sharing)   | 
 
 - Download the trained model and put it under the ```weights``` folder.  
 
 |     best_model_ped2.pth          |
 |:------------------------:|
-| [Google Drive](https://drive.google.com/file/d/1rHwcTnAcbEvHQb38dIK2FYzEleR6yP_a/view)   | 
+| [Google Drive](https://drive.google.com/file/d/19atcwjAFVGVXjlsqAhISR7cNJCTqihBi/view?usp=sharing)   | 
 
 ## Train
 ```Shell
